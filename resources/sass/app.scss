@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200&family=Poppins:wght@100;200;300;400;600&display=swap');
+
+@import '_variable.scss';
+@import '_global.sass';
+
+@import 'partials/_nav.sass';
+
+// Pages
+@import './pages/home.sass';
+@import './pages/auth.sass';
+@import './pages/accounts.sass';
+@import './pages/product.sass';
+@import './pages/cart.sass';
+@import './pages/checkout.sass';
+@import './pages/success.sass';
+
+//Components
+@import './pages/components/productBox.sass';
+@import './pages/components/popUp.sass';
