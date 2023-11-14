@@ -14,7 +14,7 @@
   
   5.php artisan migrate       (資料庫遷移)
   
-  6.php artisan db:seed       (假資料創建)
+  6.php artisan db:seed --class=UsersTableSeeder (假資料創建)
 
 > 管理員（ Admin ）<BR>
 > Email: john@gmail.com <BR>
