@@ -39,8 +39,8 @@
     * 結帳訂購者資料頁面
 
 ## 運用技術
-    1. PHP
-    2. Laravel Framework 開發
+    1. PHP 8.0
+    2. Laravel Framework 9.0開發
     3. MySQL 管理資料庫
     4. Bootstrap  
     5. Node.js
